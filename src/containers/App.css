@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'webfont';
+    src: local('./'), url(../webfont.ttf) format('truetype');
+  }
+
+  h1 {
+      font-family: webfont;
+      color:dimgray;
+  }
